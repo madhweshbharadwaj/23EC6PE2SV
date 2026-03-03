@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // File        : clock_interface.sv
-// Author      : Nirvara Reddy (1BM23EC170)
+// Author      : Madhwesh Bharadwaj CV (1BM23EC135)
 // Created     : 2026-02-28
 // Module      : clock_interface
 // Project     : SystemVerilog and Verification (23EC6PE2SV),
